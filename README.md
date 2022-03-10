@@ -8,7 +8,8 @@ Given codon usage data, we can train machine learning models which could classif
 The dataste is taken from UCI machine learning repository [LINK](https://archive.ics.uci.edu/ml/datasets/Codon+usage)
 
 ## Demo [Link](http://codonusage.herokuapp.com/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4awbhpqYpCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4awbhpqYpCs/0.jpg)](https://www.youtube.com/watch?v=4awbhpqYpCs)
 
 
 ## Future Work :
